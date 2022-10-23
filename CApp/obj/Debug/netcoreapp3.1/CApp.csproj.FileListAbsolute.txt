@@ -1,0 +1,13 @@
+E:\EDI\22022\ADT-Pila2C\CApp\bin\Debug\netcoreapp3.1\CApp.exe
+E:\EDI\22022\ADT-Pila2C\CApp\bin\Debug\netcoreapp3.1\CApp.deps.json
+E:\EDI\22022\ADT-Pila2C\CApp\bin\Debug\netcoreapp3.1\CApp.runtimeconfig.json
+E:\EDI\22022\ADT-Pila2C\CApp\bin\Debug\netcoreapp3.1\CApp.runtimeconfig.dev.json
+E:\EDI\22022\ADT-Pila2C\CApp\bin\Debug\netcoreapp3.1\CApp.dll
+E:\EDI\22022\ADT-Pila2C\CApp\bin\Debug\netcoreapp3.1\CApp.pdb
+E:\EDI\22022\ADT-Pila2C\CApp\obj\Debug\netcoreapp3.1\CApp.csprojAssemblyReference.cache
+E:\EDI\22022\ADT-Pila2C\CApp\obj\Debug\netcoreapp3.1\CApp.AssemblyInfoInputs.cache
+E:\EDI\22022\ADT-Pila2C\CApp\obj\Debug\netcoreapp3.1\CApp.AssemblyInfo.cs
+E:\EDI\22022\ADT-Pila2C\CApp\obj\Debug\netcoreapp3.1\CApp.csproj.CoreCompileInputs.cache
+E:\EDI\22022\ADT-Pila2C\CApp\obj\Debug\netcoreapp3.1\CApp.dll
+E:\EDI\22022\ADT-Pila2C\CApp\obj\Debug\netcoreapp3.1\CApp.pdb
+E:\EDI\22022\ADT-Pila2C\CApp\obj\Debug\netcoreapp3.1\CApp.genruntimeconfig.cache
